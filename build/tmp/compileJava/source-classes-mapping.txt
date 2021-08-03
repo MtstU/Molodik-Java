@@ -1,0 +1,6 @@
+Larger7Hello.java
+ Larger7Hello
+HelloVyacheslav.java
+ HelloVyacheslav
+KratnoTryom.java
+ KratnoTryom
